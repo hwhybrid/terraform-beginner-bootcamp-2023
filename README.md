@@ -1,4 +1,4 @@
-# Terraform Beginner Bootcamp 2023
+# Terraform Cloud Project Beginner Bootcamp 2023
 
 Week 0 Checklist
 - [x] Setup and/or configure AWS Account.
