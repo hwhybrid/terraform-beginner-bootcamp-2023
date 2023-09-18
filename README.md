@@ -7,6 +7,6 @@ Week 0 Checklist
 - [x] Gitpod Account
 - [x] Cloning the Github Project Template Repository
 - [ ] Configuration Terraform Cloud(in Gitpod)
-- [ ] Get into the Discord (for support and GradedTiers)
+- [ ] Get into the Discord (for Support and Graded Tiers)
 - [ ] Finish Week-0 in ExamPro
 - [ ] Finish Week-0 (Project Prep) in ExamPro
